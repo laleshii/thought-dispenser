@@ -19,10 +19,10 @@ In this case, having a public blog would force me to “clean up” my thoughts 
 
 ## Ground rules
 
-1. **No visitor trackers**
+### **No visitor trackers**
 
   I don’t want this to get in a space where I am trying to capture the attention of other people for that sweet sweet dopamine shot. With that in mind, there will be no activity tracking on this website of any kind.
 
-2. **No comments section**
+### **No comments section**
 
   This is not meant to be a platform of discussion but rather a safe place for me to lay out my thoughts. An email address is provided if you want to reach out to me directly however any other comments can be made in one’s personal circles.

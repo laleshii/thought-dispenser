@@ -3,12 +3,12 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-94485-rwdjh9/_sass/minima/skins/dark.scss",
-		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-94485-rwdjh9/_sass/minima/initialize.scss",
-		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-94485-rwdjh9/_sass/minima/custom-variables.scss",
-		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-94485-rwdjh9/_sass/minima/_base.scss",
-		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-94485-rwdjh9/_sass/minima/_layout.scss",
-		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-94485-rwdjh9/_sass/minima/custom-styles.scss"
+		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-95055-7a4evv/_sass/minima/skins/dark.scss",
+		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-95055-7a4evv/_sass/minima/initialize.scss",
+		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-95055-7a4evv/_sass/minima/custom-variables.scss",
+		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-95055-7a4evv/_sass/minima/_base.scss",
+		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-95055-7a4evv/_sass/minima/_layout.scss",
+		"../../../../private/var/folders/s_/4kg9y1tx6tb837_5_fshx71w0000gn/T/jekyll-remote-theme-20220713-95055-7a4evv/_sass/minima/custom-styles.scss"
 	],
 	"sourcesContent": [
 		"@import\n  \"minima/skins/dark\",\n  \"minima/initialize\";\n",
