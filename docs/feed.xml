@@ -1,17 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-13T14:58:20+02:00</updated><id>/feed.xml</id><title type="html">Thought Dispenser</title><subtitle>Thoughts dispensed one at a time.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2022/07/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-07-12T16:52:26+02:00</published><updated>2022-07-12T16:52:26+02:00</updated><id>/jekyll/update/2022/07/12/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2022/07/12/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-13T15:05:54+02:00</updated><id>/feed.xml</id><title type="html">Thought Dispenser</title><subtitle>Thoughts dispensed one at a time.</subtitle><entry><title type="html">Why start writing?</title><link href="/goal/rules/2022/07/13/why-start-writing.html" rel="alternate" type="text/html" title="Why start writing?" /><published>2022-07-13T15:00:00+02:00</published><updated>2022-07-13T15:00:00+02:00</updated><id>/goal/rules/2022/07/13/why-start-writing</id><content type="html" xml:base="/goal/rules/2022/07/13/why-start-writing.html"><![CDATA[<p>The gist of it is I’m trying to <strong>put my thoughts in order</strong> and I think writing is a good method of doing that.</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>There is no other hidden goal behind it however I do find it interesting to observe why does writing work for me and why I think this way of writing might get the best thoughts out in the open.</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<h2 id="forcing-function">Forcing function</h2>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>As any social creature with a healthy dose of selfishness there’s a certain degree of behavior constraint happening whenever you say something out loud and others can hear it. That fear of being perceived in a bad manner can probably be seen as a curse but I want to use it to my advantage.</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>In this case, having a public blog would force me to “clean up” my thoughts enough to lay them in writing. That would imply spending a lot more time on a subject, dissecting it and attempting to judge it from multiple perspectives. I will try my best not to casually give opinions on matters that I just learned about.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p><strong>TL;DR</strong> I’m trying to use the added social pressure of having my words publicly available to push myself into more confidently standing behind my words.</p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<h2 id="ground-rules">Ground rules</h2>
+
+<ol>
+  <li><strong>No visitor trackers</strong></li>
+</ol>
+
+<p>I don’t want this to get in a space where I am trying to capture the attention of other people for that sweet sweet dopamine shot. With that in mind, there will be no activity tracking on this website of any kind.</p>
+
+<ol>
+  <li><strong>No comments section</strong></li>
+</ol>
+
+<p>This is not meant to be a platform of discussion but rather a safe place for me to lay out my thoughts. An email address is provided if you want to reach out to me directly however any other comments can be made in one’s personal circles.</p>]]></content><author><name></name></author><category term="goal" /><category term="rules" /><summary type="html"><![CDATA[The gist of it is I’m trying to put my thoughts in order and I think writing is a good method of doing that.]]></summary></entry></feed>
