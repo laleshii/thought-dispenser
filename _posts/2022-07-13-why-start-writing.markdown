@@ -2,7 +2,7 @@
 layout: post
 title:  "Why start writing?"
 date:   2022-07-13 15:00:00 +0200
-categories: goal rules
+tags: goal rules
 ---
 
 The gist of it is I’m trying to **put my thoughts in order** and I think writing is a good method of doing that.
@@ -17,12 +17,24 @@ In this case, having a public blog would force me to “clean up” my thoughts 
 
 **TL;DR** I’m trying to use the added social pressure of having my words publicly available to push myself into more confidently standing behind my words.
 
+## Topics
+
+The posts are going to be on subjects that are of interest to me at that time. As of right now you might expect a mix of technical, lifestyle, philosophical and psychological issues discussed. Political issues might slip from time to time as it’s hard to escape them.
+
+The future however might come with other domains that I cannot think of right now so some sort of organization scheme might be applied to make some clarity in how to access specific content.
+
 ## Ground rules
 
-### **No visitor trackers**
+Additional rules might be added in the future if the need arises but this is the minimum that I want to impose from the start. If for any reason I will change these first 3 rules I probably failed to keep this a personal project.
 
-  I don’t want this to get in a space where I am trying to capture the attention of other people for that sweet sweet dopamine shot. With that in mind, there will be no activity tracking on this website of any kind.
+### No visitor trackers
 
-### **No comments section**
+I don’t want this to get in a space where I am trying to capture the attention of other people for that sweet sweet dopamine shot. With that in mind, there will be no activity tracking on this website of any kind.
 
-  This is not meant to be a platform of discussion but rather a safe place for me to lay out my thoughts. An email address is provided if you want to reach out to me directly however any other comments can be made in one’s personal circles.
+### No comments section
+
+This is not meant to be a platform of discussion but rather a safe place for me to lay out my thoughts. An email address is provided if you want to reach out to me directly however any other comments can be made in one’s personal circles.
+
+### No fixed post schedule
+
+I will release new content whenever I feel like writing. This means the frequency might be off sometimes.
